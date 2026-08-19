@@ -1,0 +1,24 @@
+
+/* checkout full width for landing page cartflows funnel */
+
+/* Container Box Padding and Width Reset */
+.wcf-checkout-form-two-column,
+.wcf-embed-checkout-form,
+.cartflows-container,
+.site-content,
+.entry-content,
+article.page {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Page background alignment */
+body.cartflows-template-default,
+.cartflows-checkout-step {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+}
+
